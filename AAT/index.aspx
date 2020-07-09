@@ -8,8 +8,9 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
     <title>AskArleneTaxes.ca</title>
-    <meta content="" name="descriptison">
-    <meta content="" name="keywords">
+    <meta name="keywords" content="AskArleneTaxes, Ask Arlene Taxes, Mobile Solution, Mobile Solutions, Mobile Tax, Personal Tax, Tax, Strathmore, Langdon, Indus, Chestermere, Rocky View, Calgary" />
+    <meta name="description" content="AskArleneTaxes, Ask Arlene Taxes, Mobile Solution, Mobile Solutions, Mobile Tax Solutions, Langdon, Indus, Chestermere, Rocky View, Calgary" />
+    <meta name="author" content="Henrik Kristensen, k3ldevelopment" />
 
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
@@ -30,13 +31,6 @@
     <!-- Template Main CSS File -->
     <link href="assets/css/style.css" rel="stylesheet">
     <link href="assets/css/site.css" rel="stylesheet">
-
-    <!-- =======================================================
-  * Template Name: Gp - v2.1.0
-  * Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 <body>
 
